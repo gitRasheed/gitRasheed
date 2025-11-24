@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- SWE in London  
+- 5 years programming experience • fresh CS grad  
+- **Python · Java · Go · C++**  
+- Focused on backend systems, data/ML tooling, and performance-focused services
+
+
 <!--
 **gitRasheed/gitRasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
