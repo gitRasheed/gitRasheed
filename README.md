@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - SWE in London  
-- 5 years programming experience • fresh CS grad  
+- 5 years programming experience • CS grad  
 - **Python · Java · Go · C++**  
 - Focused on backend systems, data/ML tooling, and performance-focused services
 
